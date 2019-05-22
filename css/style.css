@@ -140,7 +140,7 @@ a:focus{
 
 .media-body h4 {
 	margin-bottom: 20px;
-	font-size: 16px;
+	font-size: 18px;
 	font-weight: 700;
 	color: rgb(47, 147, 123);
 }
@@ -260,7 +260,7 @@ ul.cat.list-inline li a:hover{
 	padding: 5% 0;
 }
 ul.why-me li{
-	margin: 10px 0;
+	margin: 40px 0;
 }
 #tf-contact{
 	background: url(../img/08.jpg);
