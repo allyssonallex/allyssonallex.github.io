@@ -139,8 +139,8 @@ a:focus{
 }
 
 .media-body h4 {
-	margin-bottom: 20px;
-	font-size: 18px;
+	margin-bottom: 10px;
+	font-size: 16px;
 	font-weight: 700;
 	color: rgb(47, 147, 123);
 }
